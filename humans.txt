@@ -1,0 +1,45 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+   /* THE TEAM */
+  Company: [Print+Sign]
+  Website: [company url]
+  Contact: [email/contact info]
+
+  Project Manager: [Emilee Odendaal]
+  Contact: [emilee.odendaal@gmail.com]
+  Social Media: [linkedin, facebook, twitter]
+
+  Lead Developer: [Emilee]
+  Contact: [email/contact info]
+  Social Media: [linkedin, facebook, twitter]
+
+  Web Designer: [Emilee Odendaal]
+  Contact: [email/contact info]
+  Social Media: [linkedin, facebook, twitter]
+
+/* THANKS */
+  Extension Provider: [Emilee Odendaal]
+  Website: [company url]
+  Contact: [email/contact info]
+
+  Client Liason: [Emilee Odendaal]
+  Website: [company url]
+  Contact: [email/contact info]
+
+/* SITE DETAILS */
+  Company Name
+  URL
+  Launch Date
+  Date of Latest Update
+
+# THANKS
+
+    <Emilee Odendaal>
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Apache Server Configs, jQuery, Modernizr, Normalize.css

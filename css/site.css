@@ -1,0 +1,50 @@
+h1 {
+	font-family: "Cooper Std", serif;
+	font-size: 24px;
+	color: black;
+}
+h2 {
+	font-size:36px;
+}
+.links {
+	padding-top: 100px;
+}
+#logo {
+	align: right;
+}
+#bar {
+	align: center;
+}
+#UC {
+	align: center;
+}
+p {
+	font-size: 16px;
+}
+
+
+.home {
+	text-align: center;
+}
+
+
+#services {
+	alignment-adjust: middle;
+}
+#est {
+	font-weight: bold;
+	color: black;
+}
+#order {
+	font-weight: bold;
+	color: black;
+}
+#pro {
+	font-weight: bold;
+	color: black;
+}
+#up {
+	font-weight: bold;
+	color: black;
+}
+
